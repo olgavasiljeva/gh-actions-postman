@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "10786fdb-229c-4cf4-a29f-e2c72568451a",
+		"_postman_id": "1776dae3-76ac-4ca6-807a-d3f2ae5f5e23",
 		"name": "Postman lessons",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "20586342-10786fdb-229c-4cf4-a29f-e2c72568451a"
+		"_uid": "20586342-1776dae3-76ac-4ca6-807a-d3f2ae5f5e23"
 	},
 	"item": [
 		{
@@ -29,11 +29,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "71512bb3-9276-486e-aa96-b92a2873fa7f"
+						"id": "9ca432bc-8d66-488c-b230-1632bfc15254"
 					}
 				}
 			],
-			"id": "55df4b4f-11c2-4421-a6f1-a3142d62aff7",
+			"id": "4c5a3282-55d6-4ce1-b091-c822acd9402f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -73,11 +73,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "c912b495-62fd-4d46-a474-55f8295560c8"
+						"id": "58eaa2e0-7146-43f7-b78e-0f8d422451bc"
 					}
 				}
 			],
-			"id": "6c1edb20-6c37-4a67-b6c3-23214c4c7f21",
+			"id": "951c48f0-1ee7-4f09-b407-13266215bf59",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -122,11 +122,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "efa0ee7c-74c1-416f-8fca-4e73fac3ab33"
+						"id": "2d895f5a-5f51-47ca-9b35-ec13a7bff704"
 					}
 				}
 			],
-			"id": "d840e341-8e7b-450f-8c58-180c1d4ab8f5",
+			"id": "83f3ea13-5a59-4aff-8801-21a3e5b6302b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -170,11 +170,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "7ae819a3-4b81-4471-8fb5-e122947ae046"
+						"id": "4d6f825b-705a-4151-8a2d-ac6086b9e95c"
 					}
 				}
 			],
-			"id": "d28544d3-1f87-4340-b04f-4beffc365ded",
+			"id": "dc7365df-629a-44d6-a5b6-0d65557effa7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -228,11 +228,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "9dc62669-098b-43e2-af1a-a66d2b61b52f"
+						"id": "8997c694-4f83-4069-8a43-9500b4ab4ac4"
 					}
 				}
 			],
-			"id": "51707e5e-23c4-4e78-9792-25e282a071b5",
+			"id": "67c2180c-f03f-4472-b3a7-4266b9f41b7b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -286,11 +286,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "12919b85-7c1d-4a67-b3aa-fdb2bb3bf41a"
+						"id": "86d80a22-a9f2-4f18-8986-7703898329d0"
 					}
 				}
 			],
-			"id": "a1984e82-be6a-4c2d-9c92-9a59e85a799c",
+			"id": "49bf4dee-cc7c-4f2c-a592-56167b643128",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -358,11 +358,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "1d63f7e6-629d-4556-9905-c6d06e198fdf"
+						"id": "cfab3c3f-bdfc-4e51-b07b-e30eb886f940"
 					}
 				}
 			],
-			"id": "b8e191bd-25e4-4609-970d-4779f9b034c5",
+			"id": "847853b6-aee1-4a98-afd3-0557628c286d",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -430,11 +430,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "b10c82cb-6313-430b-83b5-c1a0c956951c"
+						"id": "6441f26e-2323-4e92-95f2-5f0f14477da8"
 					}
 				}
 			],
-			"id": "a20b2ef0-7bde-4620-83d7-5801fe1cde54",
+			"id": "e76d5261-db4c-4ee3-9b0f-41ba627890d3",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -502,11 +502,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "55100d9a-5192-45ca-9678-2d35b2e97f5e"
+						"id": "24bf4cbc-ffcf-4203-bd27-1f8aeec30bd5"
 					}
 				}
 			],
-			"id": "5c74f1d0-e013-49b4-b8d2-a6f87ffa1ea5",
+			"id": "49808681-1ff3-4aaf-bc2b-1c65caead080",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -549,11 +549,11 @@
 						"type": "text/javascript",
 						"packages": {},
 						"requests": {},
-						"id": "8e5abfb7-ad83-4bb4-a1be-bafadd02413a"
+						"id": "135b51c1-671e-4734-b5ea-f6831906138b"
 					}
 				}
 			],
-			"id": "342c7a77-8fde-462b-81c0-d209877879a8",
+			"id": "ac540ad9-89d9-4048-871e-e3aec15f0c66",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -593,7 +593,7 @@
 				"exec": [
 					""
 				],
-				"id": "dfb968c6-e62a-47e3-953b-be33e5219173"
+				"id": "d925d710-541a-45a1-94a3-a10c6c02cec5"
 			}
 		},
 		{
@@ -605,7 +605,7 @@
 				"exec": [
 					""
 				],
-				"id": "7a30c71c-1886-4b20-b4ee-5cc17b15fa03"
+				"id": "321a5a6c-d1a5-4b7c-a1f1-818ccf07d964"
 			}
 		}
 	],
