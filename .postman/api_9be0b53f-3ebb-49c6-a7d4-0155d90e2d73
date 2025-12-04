@@ -10,7 +10,6 @@ id = 9be0b53f-3ebb-49c6-a7d4-0155d90e2d73
 [config.relations.collections]
 rootDirectory = postman/collections
 files[] = {"id":"20586342-1eecb2f2-9482-4cd6-a447-a3c2bccc1522","path":"End-to-End Tests Copy.json","metaData":{}}
-files[] = {"id":"20586342-1776dae3-76ac-4ca6-807a-d3f2ae5f5e23","path":"Postman lessons.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
