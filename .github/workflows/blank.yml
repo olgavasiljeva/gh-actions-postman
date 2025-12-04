@@ -34,4 +34,4 @@ jobs:
         run: |
           curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
           postman login --with-api-key PMAK-693206b0c435a500014b0911-bf31966b1d445560916dd92303f1ab53cc
-          postman collection run "postman/collections /End-to-End Tests Copy.json" -e "New Environment.postman_environment.json"
+          postman collection run "postman/collections/End-to-End Tests Copy.json" -e "New Environment.postman_environment.json"
